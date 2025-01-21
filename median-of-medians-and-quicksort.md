@@ -1,4 +1,4 @@
-# Median of medians
+# Median of medians order statistics
 
 Median-finding Algorithm. *Brilliant.org*. Retrieved 22:48, January 20, 2025, from https://brilliant.org/wiki/median-finding-algorithm/
 
