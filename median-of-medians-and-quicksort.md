@@ -1,6 +1,8 @@
-# Median of medians (BFPRT)
+# Median of medians
 
 Median-finding Algorithm. *Brilliant.org*. Retrieved 22:48, January 20, 2025, from https://brilliant.org/wiki/median-finding-algorithm/
+
+BFPRT (Blum, Floyd, Pratt, Rivest, Tarjan)
 
 ```python3
 import statistics
